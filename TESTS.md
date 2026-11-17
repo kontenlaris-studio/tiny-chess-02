@@ -1,6 +1,6 @@
 # Tests — tiny-chess-02
 
-`main.py` = 4,044 bytes (lzma+base85 payload of a 7,871-byte source;
+`main.py` = 3,253 bytes (lzma+base85 payload of a 7,871-byte source;
 compressed payloads are explicitly allowed). Fixed 50,000-node
 budget, no clock — deterministic.
 

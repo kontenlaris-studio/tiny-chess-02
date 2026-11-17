@@ -1,8 +1,8 @@
-# Tiny Chess v2 — negamax engine in 4,044 bytes
+# Tiny Chess v2 — negamax engine in 3,253 bytes
 
 `main.py` is the whole engine. It is an lzma+base85 packed payload
 (the competition explicitly allows this; the unpacker and payload
-together are 4,044 bytes) that unpacks to a self-contained Python
+together are 3,253 bytes) that unpacks to a self-contained Python
 chess engine, standard library only, deterministic: a fixed node
 budget per move, never a clock.
 
