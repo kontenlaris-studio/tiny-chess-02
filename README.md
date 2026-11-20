@@ -35,3 +35,12 @@ make/unmake state restoration is asserted over full move trees,
 and tactical tests (mate in 1, hanging queen, knight fork,
 promotion) all pass. Full numbers, including practice-trial
 results against the real kit env, are in TESTS.md.
+
+---
+
+## Try it live on SkillSafe
+
+This project is published as a security-scanned skill with a hosted app on SkillSafe — use it right in your browser:
+
+- **App:** [Tiny Chess Analyst](https://tiny-chess-analyst.skillsafe.ai)
+- **Skill (installable):** https://skillsafe.ai/share/shr_ovqmm0c2f7ql
