@@ -44,3 +44,7 @@ This project is published as a security-scanned skill with a hosted app on Skill
 
 - **App:** [Tiny Chess Analyst](https://tiny-chess-analyst.skillsafe.ai)
 - **Skill (installable):** https://skillsafe.ai/share/shr_ovqmm0c2f7ql
+
+## License this engine
+
+The **Tiny Chess Engine** is available under a perpetual commercial license (Indie $149 / Commercial $449 / Studio $1,199) for use in your own products: [catalog & terms](https://kontenlaris-studio.github.io/engine-licensing/) · order via kontenlaris.studio@gmail.com.
