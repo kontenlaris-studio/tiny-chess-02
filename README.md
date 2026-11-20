@@ -43,7 +43,7 @@ results against the real kit env, are in TESTS.md.
 This project is published as a security-scanned skill with a hosted app on SkillSafe — use it right in your browser:
 
 - **App:** [Tiny Chess Analyst](https://tiny-chess-analyst.skillsafe.ai)
-- **Skill (installable):** https://skillsafe.ai/share/shr_ovqmm0c2f7ql
+- **Skill (installable):** https://skillsafe.ai/share/shr_o2rvtn5rnm7t
 
 ## License this engine
 
